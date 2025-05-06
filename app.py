@@ -393,7 +393,7 @@ class EnhancedNoteApp:
 
     def show_about(self):
         """Display the About dialog."""
-        messagebox.showinfo("About", "Enhanced Note-Taking App\nDeveloped with Python Tkinter.")
+        messagebox.showinfo("About", "Enhanced Note-Taking App\nDeveloped By DevKay")
 
     def make_bold(self):
         """Toggle bold formatting."""
